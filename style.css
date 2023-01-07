@@ -1,0 +1,50 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+    padding: 5%;
+    
+}
+
+.half-width{
+    width: 50%;
+}
+img{
+   width: 80%; 
+   border-radius: 50%;
+}
+.link{
+   text-decoration: none; 
+   padding: 10px 50px;
+   background-image: linear-gradient(pink,olive);
+   border-radius: 10px;
+   color: white;
+   font-weight: 700;
+}
+.top-banner{
+    background-color: burlywood;
+
+}
+/*my plans styles  */
+.my-plans{
+    margin-top: 130px;
+}
+.skills-conteiner{
+   display: flex; 
+   padding: 10px 130px;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+
+}
+.skill{
+    padding: 100px 10px;
+}
